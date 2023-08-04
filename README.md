@@ -5,8 +5,6 @@ In domains with high stakes, like healthcare and medicine, trustworthy and robus
 
 ## Citations 
 
-https://zenodo.org/record/8170271
-
 ```
 @misc{rahul_vishwakarma_2023_8170271,
   author       = {Rahul Vishwakarma and
@@ -23,3 +21,4 @@ https://zenodo.org/record/8170271
   url          = {https://doi.org/10.5281/zenodo.8170271}
 }
 ```
+https://zenodo.org/record/8170271
